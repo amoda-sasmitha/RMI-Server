@@ -1,0 +1,5 @@
+RMI Server
+    * Clone the github repository
+    * Open it using a suitable IDE
+    * Update Maven project dependencies
+    * Run the Program (change port number of the server if you want)
